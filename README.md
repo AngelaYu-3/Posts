@@ -2,7 +2,7 @@
 
 ### art + empathy (10/30/24)
 
-one of my favorite pieces on the importance of how art necessitates empathy from an excerpt of barbara kingsolver's personal essay *jabberwocky* in her collection of essays *high tide in tucson*
+one of my favorite pieces on the importance of how art necessitates empathy from an excerpt from barbara kingsolver's personal essay *jabberwocky* in her collection of essays *high tide in tucson*
 ___
 
 ### society + technology (10/29/24)
