@@ -2,7 +2,7 @@
 
 ### art + empathy (10/30/24)
 
-one of my favorite pieces on the importance of how empathy is ignited by art from an excerpt from barbara kingsolver's personal essay *jabberwocky* in her collection of essays *high tide in tucson*
+one of my favorite pieces on how art ignites empathy from an excerpt from barbara kingsolver's personal essay *jabberwocky* in her collection of essays *high tide in tucson*
 ___
 
 ### executive order 14110 reading notes (11/24/24)
