@@ -7,12 +7,14 @@ ___
 
 ### executive order 14110 reading notes
 
-annotated reading of executive order 14110 of October 30, 2023 [Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence)
+annotated reading of executive order 14110 of October 30, 2023  
+[Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence)
 ___
 
 ## eu ai act reading notes
 
-annotated reading of eu ai act of July 12, 2024 [EU Artificial Inteligence Act](https://artificialintelligenceact.eu/chapter/1/)
+annotated reading of eu ai act of July 12, 2024  
+[EU Artificial Inteligence Act](https://artificialintelligenceact.eu/chapter/1/)
 ___
 
 ### society + technology
