@@ -11,7 +11,7 @@ annotated reading of EU AI Act of July 12, 2024
 [EU Artificial Inteligence Act](https://artificialintelligenceact.eu/chapter/1/)
 ___
 
-### Executive Order 14110 reading notes
+### Executive Order 14110 reading notes (in progress)
 
 annotated reading of Executive Order 14110 of October 30, 2023  
 [Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence)
