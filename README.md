@@ -1,11 +1,11 @@
 ## Papers
-[Bird & Bird EU AI Act Guide](https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf](https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf))
+[Bird & Bird EU AI Act Guide (in progress)](https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf](https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf))
 
 [Executive Order 14110](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence)
 
 [Governing AI Agents](https://arxiv.org/abs/2501.07913)
 
-[MCP Guardian](https://arxiv.org/pdf/2504.12757)
+[MCP Guardian (in progress)](https://arxiv.org/pdf/2504.12757)
 
 ## Miscellaneous
 #### art & empathy
