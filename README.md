@@ -1,4 +1,4 @@
-## Papers
+## Annotated Readings
 [Bird & Bird EU AI Act Guide (in progress)](https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf](https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf))
 
 [Executive Order 14110](https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence)
@@ -6,6 +6,8 @@
 [Governing AI Agents](https://arxiv.org/abs/2501.07913)
 
 [MCP Guardian (in progress)](https://arxiv.org/pdf/2504.12757)
+
+[The Alignment Problem](https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/0/110933/files/2022/08/Christian-Alignment-Problem-Intro-and-Ch1.pdf)
 
 ## Miscellaneous
 #### art & empathy
