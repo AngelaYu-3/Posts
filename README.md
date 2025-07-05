@@ -7,6 +7,8 @@
 
 [MCP Guardian (in progress)](https://arxiv.org/pdf/2504.12757)
 
+[The Alignment Problem](https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/0/110933/files/2022/08/Christian-Alignment-Problem-Intro-and-Ch1.pdf)
+
 ## Miscellaneous
 #### art & empathy
 one of my favorite pieces on how art ignites empathy from an excerpt from barbara kingsolver's personal essay *jabberwocky* in her collection of essays *high tide in tucson*
