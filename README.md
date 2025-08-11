@@ -9,6 +9,8 @@
 
 [The Alignment Problem](https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/0/110933/files/2022/08/Christian-Alignment-Problem-Intro-and-Ch1.pdf)
 
+[NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+
 ## Miscellaneous
 #### art & empathy
 one of my favorite pieces on how art ignites empathy from an excerpt from barbara kingsolver's personal essay *jabberwocky* in her collection of essays *high tide in tucson*
